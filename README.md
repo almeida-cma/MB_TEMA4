@@ -15,4 +15,4 @@ Na pasta "Reports" do repositório atual temos um relatório de exemplo para a a
 
 https://almeida-cma.github.io/receber/
 
-Assim como os kahoots também deverão ser respondidos pelos mesmos grupos.
+Os kahoots também deverão ser respondidos pelos mesmos grupos.
